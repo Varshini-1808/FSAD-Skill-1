@@ -1,0 +1,1 @@
+public class Main { public static void main(String[] args){ System.out.println("Helloecho public class Main { public static void main(String[] args){ System.out.println(Hellogit config --global user.email 2400032768@kluniversity.in); }} > main.java"); }}
